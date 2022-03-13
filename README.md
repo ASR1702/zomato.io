@@ -1,2 +1,2 @@
-# zomato.io
+# Zomato | Home
 Have food everywhere
